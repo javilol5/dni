@@ -60,7 +60,7 @@ class TablaAsignacion:
 
 
 if __name__ == "__main__":
-
+    print(TablaAsignacion())
     import random
 
     tabla = TablaAsignacion()
